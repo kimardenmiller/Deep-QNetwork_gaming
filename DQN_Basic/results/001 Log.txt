@@ -1,0 +1,44 @@
+/Users/kimardenmiller/anaconda/envs/tensorflow/bin/python /Users/kimardenmiller/Dropbox/PyCharm/Deep-QNetwork_gaming/MsPacman.py
+Using Theano backend.
+[2017-05-09 15:38:47,675] Making new env: MsPacman-v0
+Training a new model
+total reward 640.0
+mean cost 107.913187518
+total reward 250.0
+mean cost 23.8226303557
+total reward 570.0
+mean cost 27.8988648681
+total reward 390.0
+mean cost 39.740255187
+total reward 630.0
+mean cost 27.1833139159
+total reward 390.0
+mean cost 19.5737147666
+total reward 220.0
+mean cost 15.9023756658
+total reward 390.0
+mean cost 18.263300189
+total reward 240.0
+mean cost 25.6121192412
+total reward 360.0
+mean cost 18.4253119406
+total reward 730.0
+mean cost 18.0434755196
+total reward 360.0
+mean cost 10.6323947161
+total reward 340.0
+mean cost 14.2472303143
+total reward 370.0
+mean cost 15.7474737668
+total reward 900.0
+mean cost 18.5472666766
+total reward 220.0
+mean cost 14.2509836489
+total reward 360.0
+mean cost 14.6887163348
+total reward 940.0
+mean cost 12.9234397345
+total reward 920.0
+mean cost 29.9355554615
+total reward 640.0
+mean cost 15.9607759363
