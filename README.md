@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="/assets/dqn_BreakoutDeterministic-v3_170514 79_Play.gif?raw=true"></td>
+    <td><img src="/assets/dqn_BreakoutDeterministic-v3_170514 79_Play_wide?raw=true"></td>
   </tr>
 </table>
 
