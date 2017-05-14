@@ -1,4 +1,4 @@
-# Deep Reinforcement Learning for Games
+# Deep Reinforcement Learning from Games to Value Investing
 
 <table>
   <tr>
