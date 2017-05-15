@@ -105,7 +105,7 @@ if args.mode == 'train':
     # After training save in addition to check point saves.
     dqn.save_weights(weights_filename, overwrite=True)
 
-    # Evaluate our performance for 10 episodes.
+    # Evaluate performance for 10 episodes.
     dqn.test(env, nb_episodes=10, visualize=False)
 elif args.mode == 'test':
     weights_filename = 'dqn_{}_weights.h5f'.format(args.env_name)
